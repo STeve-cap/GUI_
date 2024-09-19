@@ -4,6 +4,6 @@ import javax.swing.*;
 import java.awt.*;
 
 
-public class GUI {
+public class GUI extends JFrame implements MouseListener, ActionListener{
    
 }
